@@ -9,6 +9,3 @@ function forLoop(array){
   return(array)
 } 
 
-var testArray = []
-
-forLoop(testArray)
